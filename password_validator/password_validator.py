@@ -42,6 +42,3 @@ def password_is_ok(password):
         return True
     else:
         return False
-
-
-print(password_strength("idSk 44fonsks"))
